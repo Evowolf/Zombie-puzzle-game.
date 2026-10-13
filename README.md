@@ -1,2 +1,0 @@
-# Zombie-puzzle-game.
-Art 
